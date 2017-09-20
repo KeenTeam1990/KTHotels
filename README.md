@@ -48,10 +48,5 @@
 <li>工程结构一幕了然，便于拓展</li>
 </ul>
 
-<h3>效果截图</h3>
-
-![系统截图](https://github.com/FantasticLBP/Hotels_Server/blob/master/Systemt_Screen1.png?raw=true "这是系统截图")
-
-
 各位同学觉得有帮助的欢迎给个star，我会继续优化代码。
 如果有不懂的地方可以[邮箱](Keen_Team@163.com)。
