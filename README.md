@@ -27,6 +27,7 @@
 
 
 <h3>效果截图</h3>
+<img src='https://raw.githubusercontent.com/FantasticLBP/Hotels/master/1.gif' height='24' wigth='40'>
 
 ![App效果图](https://raw.githubusercontent.com/FantasticLBP/Hotels/master/1.gif "这是App的效果图")
 
