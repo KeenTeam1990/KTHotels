@@ -48,6 +48,6 @@
 <li>封装了Response类，可以传递4个参数 show($code, $message = '', $data = array(), $type = self::JSON)来展示json或者array或者xml。</li>
 <li>工程结构一幕了然，便于拓展</li>
 </ul>
-<h4>仅开源供大家学习使用</h4>
+<h4>仅开源供大家学习使用Vue 2.0web</h4>
 各位同学觉得有帮助的欢迎给个star，我会继续优化代码。
 如果有不懂的地方可以[邮箱](Keen_Team@163.com)
