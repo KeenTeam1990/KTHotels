@@ -24,7 +24,6 @@
 <li>界面采用代码实现，部分界面采用xib实现。整个代码可读性比较好、代码规范、有注释说明，配合服务端是自己用php写的，Api也是php实现的。</li>
 <li>主要功能：根据不同主题查找酒店、摇一摇随机推荐酒店、根据城市定位推荐酒店、根据用户输入多条件模糊搜索查找酒店、酒店位置地图显示、路径规划及其导航（百度地图、高德地图、系统地图）、订单查看等、酒店分享等功能</li>
 </ul>
-
 <h3>效果截图</h3>
 <img src='https://raw.githubusercontent.com/FantasticLBP/Hotels/master/1.gif' height='24' wigth='40'>
 ![App效果图](https://raw.githubusercontent.com/FantasticLBP/Hotels/master/1.gif "这是App的效果图")
@@ -45,4 +44,4 @@
 
 # star
 
-各位同学觉得有帮助的欢迎给个star，我会继续优化代码。如果有不懂的地方可以[163邮箱] (Keen_Team@163.com)
+各位同学觉得有帮助的欢迎给个star，我会继续优化代码。如果有不懂的地方可以[@163邮箱] (Keen_Team@163.com)
