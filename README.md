@@ -3,8 +3,8 @@
 住哪儿App
 
 [![platform](https://img.shields.io/badge/platform-iOS-red.svg)]()
-[![weibo](https://img.shields.io/badge/weibo-%40杭城小刘-green.svg)](http://weibo.com/3194053975/profile?rightmod=1&wvr=6&mod=personinfo&is_hot=1)
-[![Updated](https://img.shields.io/badge/Updated-2017--09--03-brightgreen.svg)]()
+[![weibo](https://img.shields.io/badge/weibo-%40-green.svg)](http://weibo.com/3194053975/profile?rightmod=1&wvr=6&mod=personinfo&is_hot=1)
+[![Updated](https://img.shields.io/badge/Updated-2021--09--03-brightgreen.svg)]()
 
 **实现了类似艺龙App的预定酒店功能，包括酒店搜索、特色酒店推荐、特惠酒店推荐等等功能，可以预定酒店、查看订单，唯独不能支付（支付功能必须由公司的名义注册，个人练手注册不了）。**
 
