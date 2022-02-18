@@ -1,6 +1,6 @@
 # Hotels
 
-住哪儿App
+$住哪儿App
 
 [![platform](https://img.shields.io/badge/platform-iOS-red.svg)]()
 [![weibo](https://img.shields.io/badge/weibo-%40-green.svg)](http://weibo.com/3194053975/profile?rightmod=1&wvr=6&mod=personinfo&is_hot=1)
